@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'myFont';
+    src: url(aa_badaboom_bb.ttf);
+}
+
+h1{
+    color: #8064a2;
+    font-family: 'myFont';
+}
+
+font-face {
+    font-family: 'Algerian';
+    src: url(Algerian\ Regular.ttf);
+}
+
+h5{
+    font-family: 'Algerian';
+}
+
+
+
+@font-face {
+    font-family: 'Anime_Ace';
+    src: url(animeace.ttf);
+}
+
+h6{
+    font-family: 'Anime_Ace';
+}
